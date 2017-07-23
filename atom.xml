@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-07-23T08:46:53.306Z</updated>
+  <updated>2017-07-23T09:09:59.456Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,38 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>filename</title>
+    <link href="http://yoursite.com/2017/07/23/filename-1/"/>
+    <id>http://yoursite.com/2017/07/23/filename-1/</id>
+    <published>2017-07-23T08:54:38.000Z</published>
+    <updated>2017-07-23T09:09:59.456Z</updated>
+    
+    <content type="html"><![CDATA[<p>####百度链接<br><a href="http://baidu.com" target="_blank" rel="external">Baidu</a></p>
+<p>####插入图片<br><img src="/2017/07/23/filename-1/logo.png" alt="Mou"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;####百度链接&lt;br&gt;&lt;a href=&quot;http://baidu.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Baidu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;####插入图片&lt;br&gt;&lt;img src=&quot;/2017/07/23/filename-1/logo.
+    
+    </summary>
+    
+      <category term="Hexo" scheme="http://yoursite.com/categories/Hexo/"/>
+    
+    
+      <category term="分类" scheme="http://yoursite.com/tags/%E5%88%86%E7%B1%BB/"/>
+    
+      <category term="归档" scheme="http://yoursite.com/tags/%E5%BD%92%E6%A1%A3/"/>
+    
+  </entry>
+  
+  <entry>
     <title>学习心得</title>
     <link href="http://yoursite.com/2017/07/16/filename/"/>
     <id>http://yoursite.com/2017/07/16/filename/</id>
     <published>2017-07-16T05:28:42.000Z</published>
-    <updated>2017-07-23T08:46:53.306Z</updated>
+    <updated>2017-07-23T09:18:15.746Z</updated>
     
     <content type="html"><![CDATA[<p>C++与C语言</p>
 <p>####百度链接<br><a href="http://baidu.com" target="_blank" rel="external">Baidu</a></p>
@@ -35,6 +62,12 @@
     
     </summary>
     
+      <category term="Hexo" scheme="http://yoursite.com/categories/Hexo/"/>
+    
+    
+      <category term="分类" scheme="http://yoursite.com/tags/%E5%88%86%E7%B1%BB/"/>
+    
+      <category term="归档" scheme="http://yoursite.com/tags/%E5%BD%92%E6%A1%A3/"/>
     
   </entry>
   
